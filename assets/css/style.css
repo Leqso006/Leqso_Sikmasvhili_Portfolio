@@ -247,7 +247,6 @@ h1 {
 
 .timeline i {
     color: var(--accent);
-    background: var(--bg);
     z-index: 1;
     padding: 5px 0;
     font-size: 1rem;
@@ -749,4 +748,5 @@ h1 {
     letter-spacing: 3px;
     margin-bottom: 2rem;
     opacity: 0.8;
+
 }
